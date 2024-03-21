@@ -6,7 +6,42 @@
     <description>Recent content on CREATIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 13:40:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 21 Mar 2024 13:40:31 +0100</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Annuaire</title>
+      <link>http://localhost:1313/annuaire/</link>
+      <pubDate>Thu, 21 Mar 2024 13:40:23 +0100</pubDate>
+      <guid>http://localhost:1313/annuaire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recherche</title>
+      <link>http://localhost:1313/recherche/</link>
+      <pubDate>Thu, 21 Mar 2024 13:40:11 +0100</pubDate>
+      <guid>http://localhost:1313/recherche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Thu, 21 Mar 2024 13:39:06 +0100</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formation</title>
+      <link>http://localhost:1313/formation/</link>
+      <pubDate>Thu, 21 Mar 2024 13:38:39 +0100</pubDate>
+      <guid>http://localhost:1313/formation/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
